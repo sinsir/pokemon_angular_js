@@ -1,0 +1,392 @@
+{
+    "number": 58,
+    "name": "Growlithe",
+    "types": [
+        {
+            "name": "fire",
+            "resource_uri": "/api/v1/type/10/"
+        }
+    ],
+    "attack": 70,
+    "defense": 45,
+    "speed": 60,
+    "specialAttack": 70,
+    "specialDefense": 50,
+    "moves": [
+        {
+            "learn_type": "level up",
+            "level": 43,
+            "name": "Outrage",
+            "resource_uri": "/api/v1/move/200/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Snarl",
+            "resource_uri": "/api/v1/move/555/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Wild-charge",
+            "resource_uri": "/api/v1/move/528/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 48,
+            "name": "Retaliate",
+            "resource_uri": "/api/v1/move/514/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Incinerate",
+            "resource_uri": "/api/v1/move/510/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Round",
+            "resource_uri": "/api/v1/move/496/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Flame-charge",
+            "resource_uri": "/api/v1/move/488/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 31,
+            "name": "Flame-burst",
+            "resource_uri": "/api/v1/move/481/"
+        },
+        {
+            "learn_type": "egg move",
+            "name": "Close-combat",
+            "resource_uri": "/api/v1/move/370/"
+        },
+        {
+            "learn_type": "egg move",
+            "name": "Covet",
+            "resource_uri": "/api/v1/move/343/"
+        },
+        {
+            "learn_type": "egg move",
+            "name": "Double-kick",
+            "resource_uri": "/api/v1/move/24/"
+        },
+        {
+            "learn_type": "egg move",
+            "name": "Morning-sun",
+            "resource_uri": "/api/v1/move/234/"
+        },
+        {
+            "learn_type": "tutor",
+            "name": "Mud-slap",
+            "resource_uri": "/api/v1/move/189/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Captivate",
+            "resource_uri": "/api/v1/move/445/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 28,
+            "name": "Fire-fang",
+            "resource_uri": "/api/v1/move/424/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 48,
+            "name": "Flare-blitz",
+            "resource_uri": "/api/v1/move/394/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Natural-gift",
+            "resource_uri": "/api/v1/move/363/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Will-o-wisp",
+            "resource_uri": "/api/v1/move/261/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 25,
+            "name": "Reversal",
+            "resource_uri": "/api/v1/move/179/"
+        },
+        {
+            "learn_type": "egg move",
+            "name": "Howl",
+            "resource_uri": "/api/v1/move/336/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Aerial-ace",
+            "resource_uri": "/api/v1/move/332/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 19,
+            "name": "Odor-sleuth",
+            "resource_uri": "/api/v1/move/316/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Overheat",
+            "resource_uri": "/api/v1/move/315/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Secret-power",
+            "resource_uri": "/api/v1/move/290/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 37,
+            "name": "Helping-hand",
+            "resource_uri": "/api/v1/move/270/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Facade",
+            "resource_uri": "/api/v1/move/263/"
+        },
+        {
+            "learn_type": "egg move",
+            "name": "Heat-wave",
+            "resource_uri": "/api/v1/move/257/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Thief",
+            "resource_uri": "/api/v1/move/168/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Strength",
+            "resource_uri": "/api/v1/move/70/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Rock-smash",
+            "resource_uri": "/api/v1/move/249/"
+        },
+        {
+            "learn_type": "egg move",
+            "name": "Crunch",
+            "resource_uri": "/api/v1/move/242/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Sunny-day",
+            "resource_uri": "/api/v1/move/241/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Hidden-power",
+            "resource_uri": "/api/v1/move/237/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Iron-tail",
+            "resource_uri": "/api/v1/move/231/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Dragonbreath",
+            "resource_uri": "/api/v1/move/225/"
+        },
+        {
+            "learn_type": "egg move",
+            "name": "Safeguard",
+            "resource_uri": "/api/v1/move/219/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Frustration",
+            "resource_uri": "/api/v1/move/218/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Return",
+            "resource_uri": "/api/v1/move/216/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Sleep-talk",
+            "resource_uri": "/api/v1/move/214/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Attract",
+            "resource_uri": "/api/v1/move/213/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Swagger",
+            "resource_uri": "/api/v1/move/207/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Endure",
+            "resource_uri": "/api/v1/move/203/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Protect",
+            "resource_uri": "/api/v1/move/182/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Curse",
+            "resource_uri": "/api/v1/move/174/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Snore",
+            "resource_uri": "/api/v1/move/173/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 34,
+            "name": "Flame-wheel",
+            "resource_uri": "/api/v1/move/172/"
+        },
+        {
+            "learn_type": "egg move",
+            "name": "Fire-spin",
+            "resource_uri": "/api/v1/move/83/"
+        },
+        {
+            "learn_type": "egg move",
+            "name": "Thrash",
+            "resource_uri": "/api/v1/move/37/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Headbutt",
+            "resource_uri": "/api/v1/move/29/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Substitute",
+            "resource_uri": "/api/v1/move/164/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Rest",
+            "resource_uri": "/api/v1/move/156/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Skull-bash",
+            "resource_uri": "/api/v1/move/130/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Swift",
+            "resource_uri": "/api/v1/move/129/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Fire-blast",
+            "resource_uri": "/api/v1/move/126/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Bide",
+            "resource_uri": "/api/v1/move/117/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Reflect",
+            "resource_uri": "/api/v1/move/115/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Double-team",
+            "resource_uri": "/api/v1/move/104/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Mimic",
+            "resource_uri": "/api/v1/move/102/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Rage",
+            "resource_uri": "/api/v1/move/99/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 39,
+            "name": "Agility",
+            "resource_uri": "/api/v1/move/97/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Toxic",
+            "resource_uri": "/api/v1/move/92/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Dig",
+            "resource_uri": "/api/v1/move/91/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Dragon-rage",
+            "resource_uri": "/api/v1/move/82/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 50,
+            "name": "Flamethrower",
+            "resource_uri": "/api/v1/move/53/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 18,
+            "name": "Ember",
+            "resource_uri": "/api/v1/move/52/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 1,
+            "name": "Roar",
+            "resource_uri": "/api/v1/move/46/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 1,
+            "name": "Bite",
+            "resource_uri": "/api/v1/move/44/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 23,
+            "name": "Leer",
+            "resource_uri": "/api/v1/move/43/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Double-edge",
+            "resource_uri": "/api/v1/move/38/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 30,
+            "name": "Take-down",
+            "resource_uri": "/api/v1/move/36/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Body-slam",
+            "resource_uri": "/api/v1/move/34/"
+        }
+    ],
+    "weight": "190",
+    "image": "http://pokeapi.co/media/img/58.png",
+    "caught": null,
+    "description": "A POKEMON with a friendly nature. However, it will bark fiercely at anything invading its territory."
+}

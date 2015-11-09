@@ -1,0 +1,44 @@
+{
+    "number": 129,
+    "name": "Magikarp",
+    "types": [
+        {
+            "name": "water",
+            "resource_uri": "/api/v1/type/11/"
+        }
+    ],
+    "attack": 10,
+    "defense": 55,
+    "speed": 80,
+    "specialAttack": 15,
+    "specialDefense": 20,
+    "moves": [
+        {
+            "learn_type": "tutor",
+            "name": "Bounce",
+            "resource_uri": "/api/v1/move/340/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 30,
+            "name": "Flail",
+            "resource_uri": "/api/v1/move/175/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 1,
+            "name": "Splash",
+            "resource_uri": "/api/v1/move/150/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 15,
+            "name": "Tackle",
+            "resource_uri": "/api/v1/move/33/"
+        }
+    ],
+    "weight": "100",
+    "image": "http://pokeapi.co/media/img/129.png",
+    "caught": null,
+    "description": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles."
+}

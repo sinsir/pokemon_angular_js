@@ -1,0 +1,347 @@
+{
+    "number": 81,
+    "name": "Magnemite",
+    "types": [
+        {
+            "name": "steel",
+            "resource_uri": "/api/v1/type/9/"
+        },
+        {
+            "name": "electric",
+            "resource_uri": "/api/v1/type/13/"
+        }
+    ],
+    "attack": 35,
+    "defense": 70,
+    "speed": 45,
+    "specialAttack": 95,
+    "specialDefense": 55,
+    "moves": [
+        {
+            "learn_type": "tutor",
+            "name": "Electroweb",
+            "resource_uri": "/api/v1/move/527/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Wild-charge",
+            "resource_uri": "/api/v1/move/528/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Volt-switch",
+            "resource_uri": "/api/v1/move/521/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Round",
+            "resource_uri": "/api/v1/move/496/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 27,
+            "name": "Electro-ball",
+            "resource_uri": "/api/v1/move/486/"
+        },
+        {
+            "learn_type": "tutor",
+            "name": "Gravity",
+            "resource_uri": "/api/v1/move/356/"
+        },
+        {
+            "learn_type": "tutor",
+            "name": "Magic-coat",
+            "resource_uri": "/api/v1/move/277/"
+        },
+        {
+            "learn_type": "tutor",
+            "name": "Iron-defense",
+            "resource_uri": "/api/v1/move/334/"
+        },
+        {
+            "learn_type": "tutor",
+            "name": "Signal-beam",
+            "resource_uri": "/api/v1/move/324/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Charge-beam",
+            "resource_uri": "/api/v1/move/451/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 30,
+            "name": "Magnet-bomb",
+            "resource_uri": "/api/v1/move/443/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 38,
+            "name": "Discharge",
+            "resource_uri": "/api/v1/move/435/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Flash-cannon",
+            "resource_uri": "/api/v1/move/430/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 43,
+            "name": "Mirror-shot",
+            "resource_uri": "/api/v1/move/429/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 46,
+            "name": "Magnet-rise",
+            "resource_uri": "/api/v1/move/393/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Natural-gift",
+            "resource_uri": "/api/v1/move/363/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 49,
+            "name": "Gyro-ball",
+            "resource_uri": "/api/v1/move/360/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Recycle",
+            "resource_uri": "/api/v1/move/278/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Psych-up",
+            "resource_uri": "/api/v1/move/244/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Explosion",
+            "resource_uri": "/api/v1/move/153/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Light-screen",
+            "resource_uri": "/api/v1/move/113/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Shock-wave",
+            "resource_uri": "/api/v1/move/351/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 1,
+            "name": "Metal-sound",
+            "resource_uri": "/api/v1/move/319/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Secret-power",
+            "resource_uri": "/api/v1/move/290/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Facade",
+            "resource_uri": "/api/v1/move/263/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Sunny-day",
+            "resource_uri": "/api/v1/move/241/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 26,
+            "name": "Spark",
+            "resource_uri": "/api/v1/move/209/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Rain-dance",
+            "resource_uri": "/api/v1/move/240/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Hidden-power",
+            "resource_uri": "/api/v1/move/237/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Frustration",
+            "resource_uri": "/api/v1/move/218/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Return",
+            "resource_uri": "/api/v1/move/216/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Sleep-talk",
+            "resource_uri": "/api/v1/move/214/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Swagger",
+            "resource_uri": "/api/v1/move/207/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Rollout",
+            "resource_uri": "/api/v1/move/205/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Endure",
+            "resource_uri": "/api/v1/move/203/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 27,
+            "name": "Lock-on",
+            "resource_uri": "/api/v1/move/199/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 45,
+            "name": "Zap-cannon",
+            "resource_uri": "/api/v1/move/192/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Protect",
+            "resource_uri": "/api/v1/move/182/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Curse",
+            "resource_uri": "/api/v1/move/174/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Snore",
+            "resource_uri": "/api/v1/move/173/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Substitute",
+            "resource_uri": "/api/v1/move/164/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Rest",
+            "resource_uri": "/api/v1/move/156/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Flash",
+            "resource_uri": "/api/v1/move/148/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 41,
+            "name": "Swift",
+            "resource_uri": "/api/v1/move/129/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Bide",
+            "resource_uri": "/api/v1/move/117/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Reflect",
+            "resource_uri": "/api/v1/move/115/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Double-team",
+            "resource_uri": "/api/v1/move/104/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 47,
+            "name": "Screech",
+            "resource_uri": "/api/v1/move/103/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Mimic",
+            "resource_uri": "/api/v1/move/102/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Teleport",
+            "resource_uri": "/api/v1/move/100/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Rage",
+            "resource_uri": "/api/v1/move/99/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Toxic",
+            "resource_uri": "/api/v1/move/92/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Thunder",
+            "resource_uri": "/api/v1/move/87/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 35,
+            "name": "Thunder-wave",
+            "resource_uri": "/api/v1/move/86/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Thunderbolt",
+            "resource_uri": "/api/v1/move/85/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 25,
+            "name": "Thundershock",
+            "resource_uri": "/api/v1/move/84/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 21,
+            "name": "Sonicboom",
+            "resource_uri": "/api/v1/move/49/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 29,
+            "name": "Supersonic",
+            "resource_uri": "/api/v1/move/48/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Double-edge",
+            "resource_uri": "/api/v1/move/38/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Take-down",
+            "resource_uri": "/api/v1/move/36/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 1,
+            "name": "Tackle",
+            "resource_uri": "/api/v1/move/33/"
+        }
+    ],
+    "weight": "60",
+    "image": "http://pokeapi.co/media/img/81.png",
+    "caught": null,
+    "description": "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away."
+}

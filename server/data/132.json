@@ -1,0 +1,27 @@
+{
+    "number": 132,
+    "name": "Ditto",
+    "types": [
+        {
+            "name": "normal",
+            "resource_uri": "/api/v1/type/1/"
+        }
+    ],
+    "attack": 48,
+    "defense": 48,
+    "speed": 48,
+    "specialAttack": 48,
+    "specialDefense": 48,
+    "moves": [
+        {
+            "learn_type": "level up",
+            "level": 1,
+            "name": "Transform",
+            "resource_uri": "/api/v1/move/144/"
+        }
+    ],
+    "weight": "40",
+    "image": "http://pokeapi.co/media/img/132.png",
+    "caught": null,
+    "description": "A DITTO rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong."
+}

@@ -1,0 +1,329 @@
+{
+    "number": 17,
+    "name": "Pidgeotto",
+    "types": [
+        {
+            "name": "normal",
+            "resource_uri": "/api/v1/type/1/"
+        },
+        {
+            "name": "flying",
+            "resource_uri": "/api/v1/type/3/"
+        }
+    ],
+    "attack": 60,
+    "defense": 55,
+    "speed": 71,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "moves": [
+        {
+            "learn_type": "level up",
+            "level": 62,
+            "name": "Hurricane",
+            "resource_uri": "/api/v1/move/542/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Work-up",
+            "resource_uri": "/api/v1/move/526/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Round",
+            "resource_uri": "/api/v1/move/496/"
+        },
+        {
+            "learn_type": "tutor",
+            "name": "Ominous-wind",
+            "resource_uri": "/api/v1/move/466/"
+        },
+        {
+            "learn_type": "tutor",
+            "name": "Air-cutter",
+            "resource_uri": "/api/v1/move/314/"
+        },
+        {
+            "learn_type": "tutor",
+            "name": "Heat-wave",
+            "resource_uri": "/api/v1/move/257/"
+        },
+        {
+            "learn_type": "tutor",
+            "name": "Uproar",
+            "resource_uri": "/api/v1/move/253/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Captivate",
+            "resource_uri": "/api/v1/move/445/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Defog",
+            "resource_uri": "/api/v1/move/432/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 57,
+            "name": "Air-slash",
+            "resource_uri": "/api/v1/move/403/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "U-turn",
+            "resource_uri": "/api/v1/move/369/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 47,
+            "name": "Tailwind",
+            "resource_uri": "/api/v1/move/366/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Pluck",
+            "resource_uri": "/api/v1/move/365/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Natural-gift",
+            "resource_uri": "/api/v1/move/363/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 42,
+            "name": "Roost",
+            "resource_uri": "/api/v1/move/355/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 22,
+            "name": "Twister",
+            "resource_uri": "/api/v1/move/239/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Aerial-ace",
+            "resource_uri": "/api/v1/move/332/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 34,
+            "name": "Featherdance",
+            "resource_uri": "/api/v1/move/297/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Secret-power",
+            "resource_uri": "/api/v1/move/290/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Facade",
+            "resource_uri": "/api/v1/move/263/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Rain-dance",
+            "resource_uri": "/api/v1/move/240/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Sunny-day",
+            "resource_uri": "/api/v1/move/241/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Hidden-power",
+            "resource_uri": "/api/v1/move/237/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Frustration",
+            "resource_uri": "/api/v1/move/218/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Return",
+            "resource_uri": "/api/v1/move/216/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Sleep-talk",
+            "resource_uri": "/api/v1/move/214/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Attract",
+            "resource_uri": "/api/v1/move/213/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Steel-wing",
+            "resource_uri": "/api/v1/move/211/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Swagger",
+            "resource_uri": "/api/v1/move/207/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Endure",
+            "resource_uri": "/api/v1/move/203/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Detect",
+            "resource_uri": "/api/v1/move/197/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Mud-slap",
+            "resource_uri": "/api/v1/move/189/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Protect",
+            "resource_uri": "/api/v1/move/182/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Curse",
+            "resource_uri": "/api/v1/move/174/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Snore",
+            "resource_uri": "/api/v1/move/173/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Thief",
+            "resource_uri": "/api/v1/move/168/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 1,
+            "name": "Tackle",
+            "resource_uri": "/api/v1/move/33/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Substitute",
+            "resource_uri": "/api/v1/move/164/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Rest",
+            "resource_uri": "/api/v1/move/156/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Sky-attack",
+            "resource_uri": "/api/v1/move/143/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Swift",
+            "resource_uri": "/api/v1/move/129/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 49,
+            "name": "Mirror-move",
+            "resource_uri": "/api/v1/move/119/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Bide",
+            "resource_uri": "/api/v1/move/117/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Reflect",
+            "resource_uri": "/api/v1/move/115/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Double-team",
+            "resource_uri": "/api/v1/move/104/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Mimic",
+            "resource_uri": "/api/v1/move/102/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Rage",
+            "resource_uri": "/api/v1/move/99/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 12,
+            "name": "Quick-attack",
+            "resource_uri": "/api/v1/move/98/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 40,
+            "name": "Agility",
+            "resource_uri": "/api/v1/move/97/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Toxic",
+            "resource_uri": "/api/v1/move/92/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Double-edge",
+            "resource_uri": "/api/v1/move/38/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Take-down",
+            "resource_uri": "/api/v1/move/36/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 1,
+            "name": "Sand-attack",
+            "resource_uri": "/api/v1/move/28/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Fly",
+            "resource_uri": "/api/v1/move/19/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 21,
+            "name": "Whirlwind",
+            "resource_uri": "/api/v1/move/18/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 31,
+            "name": "Wing-attack",
+            "resource_uri": "/api/v1/move/17/"
+        },
+        {
+            "learn_type": "level up",
+            "level": 1,
+            "name": "Gust",
+            "resource_uri": "/api/v1/move/16/"
+        },
+        {
+            "learn_type": "machine",
+            "name": "Razor-wind",
+            "resource_uri": "/api/v1/move/13/"
+        }
+    ],
+    "weight": "300",
+    "image": "http://pokeapi.co/media/img/17.png",
+    "caught": null,
+    "description": "PIDGEOTTO claims a large area as its own territory. This POKEMON flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
+}
