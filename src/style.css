@@ -1,0 +1,27 @@
+body {
+    padding-top: 75px;
+}
+
+.navbar-brand {
+    color: #fdfdfd !important;
+}
+
+.navbar-default {
+    background-color: #f86f4d;
+    border-color: #d36647;
+}
+
+hr {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-top-color: #ddd;
+}
+
+.panel-body {
+    text-align: center;
+}
+
+blockquote {
+    border-left-color: #ccc;
+    font-size: 13px
+}

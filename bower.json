@@ -1,0 +1,21 @@
+{
+  "name": "Pokedex",
+  "description": "A simple web-based Pokedex for learning AngularJS",
+  "main": "index.js",
+  "authors": [
+    "John Clifford"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularjs"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
